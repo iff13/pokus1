@@ -23,7 +23,7 @@ if (isset($_GET['search_term'])) {
 
     <form action="" method="get">
 
-        <input type="text" name="api_key" placeholder="zadejte svůj API klíč"><br>
+        <input type="text" name="api_key" placeholder="Zadejte svůj API klíč"><br>
 
         <input type="text" name="search_term" placeholder="Termín">
 
